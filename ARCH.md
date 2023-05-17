@@ -24,4 +24,8 @@ Basic happy path
 - run the quiz
 - export the deck
 
+Next versions: 
+- Do this with Typescript
+- Do this with React
+- Do this with Next.js / etc. 
 
